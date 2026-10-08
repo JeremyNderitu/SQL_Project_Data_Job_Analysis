@@ -93,11 +93,8 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY 
     salary_year_avg DESC
 ```
-<<<<<<< HEAD
 Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 2023
-=======
-Here's the breakdown of the most demanded skills for the top 10 highest paying data analyst jobs in 20223
->>>>>>> 41062c5 (update README bar charts)
+
 
 - **SQL** is leading with a bold count of 8.
 - **Python** follows closely with a bold count of 7.
